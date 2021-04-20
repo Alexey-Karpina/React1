@@ -6,7 +6,7 @@ import ProfileCard from "./components/ProfileCard";
 const App = () => {
   return (
     <Fragment>
-      <ProfileCard />
+      <ProfileCard1 />
     </Fragment>
   );
 };
